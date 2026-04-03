@@ -4,8 +4,9 @@ pipeline {
     stages {
         stage('Print Message') {
             steps {
-                echo 'Hello Sowmya! Jenkins is working 🚀'
+                echo 'Hello Sowmya'
             }
         }
     }
 }
+
